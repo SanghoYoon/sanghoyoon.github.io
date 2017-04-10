@@ -61,3 +61,10 @@
   url(asset_path('lato/Lato-700.woff')) format('woff'),
   url(asset_path('lato/Lato-700.ttf')) format('truetype'),
 }
+
+// Source Han Sans
+// =============================================================================
+@font-face {
+  font-family: 'Noto Sans';
+  src: url(http://fonts.googleapis.com/css?family=Noto+Sans);
+}
